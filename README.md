@@ -1,6 +1,6 @@
 ## This is my ..
 
-<img src="https://cdn.jsdelivr.net/gh/NP2Z/NP2Z/mygf.jpg" width="513" height="684" >
+<img src="https://cdn.jsdelivr.net/gh/NP2Z/NP2Z/image/mygf.jpg" width="513" height="684" >
 
 
 ## And for oi
