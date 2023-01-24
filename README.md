@@ -1,4 +1,4 @@
-![](https://cdn.jsdelivr.net/gh/xin700/xin700/carbon (1).png
+![](https://cdn.jsdelivr.net/gh/xin700/xin700/carbon.png
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
