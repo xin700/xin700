@@ -45,7 +45,7 @@ class Xin:
 
 **Tools**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cursor,claude,chatgpt,vscode,git,docker,linux,anaconda&theme=dark" alt="Tools" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cursor&theme=dark" alt="Cursor" /> <img src="icons/claude.svg" alt="Claude" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,vscode,git,docker,linux,anaconda&theme=dark" alt="ChatGPT, VS Code, Git, Docker, Linux, Anaconda" />
 
 </div>
 
