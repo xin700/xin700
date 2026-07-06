@@ -37,15 +37,15 @@ class Xin:
 
 **Languages**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,solidity&theme=dark" alt="Languages" />
+<img src="icons/cpp.svg" alt="C++" /> <img src="icons/python.svg" alt="Python" /> <img src="icons/solidity.svg" alt="Solidity" />
 
 **ML / AI / Robotics**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,opencv,ros&theme=dark" alt="ML / AI / Robotics" />
+<img src="icons/pytorch.svg" alt="PyTorch" /> <img src="icons/tensorflow.svg" alt="TensorFlow" /> <img src="icons/sklearn.svg" alt="scikit-learn" /> <img src="icons/opencv.svg" alt="OpenCV" /> <img src="icons/ros.svg" alt="ROS" />
 
 **Tools**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cursor&theme=dark" alt="Cursor" /> <img src="icons/claude.svg" alt="Claude" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,vscode,git,docker,linux,anaconda&theme=dark" alt="ChatGPT, VS Code, Git, Docker, Linux, Anaconda" />
+<img src="icons/cursor.svg" alt="Cursor" /> <img src="icons/claude.svg" alt="Claude" /> <img src="icons/chatgpt.svg" alt="ChatGPT" /> <img src="icons/vscode.svg" alt="VS Code" /> <img src="icons/git.svg" alt="Git" /> <img src="icons/docker.svg" alt="Docker" /> <img src="icons/linux.svg" alt="Linux" /> <img src="icons/anaconda.svg" alt="Anaconda" />
 
 </div>
 
