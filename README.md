@@ -37,15 +37,15 @@ class Xin:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,python,solidity&theme=dark" alt="Languages" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,solidity&theme=dark" alt="Languages" />
 
 **ML / AI / Robotics**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,ros&theme=dark" alt="ML / AI / Robotics" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,opencv,ros&theme=dark" alt="ML / AI / Robotics" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,anaconda&theme=dark" alt="Tools" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cursor,claude,chatgpt,vscode,git,docker,linux,anaconda&theme=dark" alt="Tools" />
 
 </div>
 
